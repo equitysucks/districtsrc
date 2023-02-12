@@ -1,0 +1,24 @@
+{
+    "userToken" : "MTA3NDIyODg4MjkwNDk4MTUxNQ.GXq1JL.EPjCDkMJ7pcU6kSUF2M278iW5IRG8evar6rTPk",
+    "streamUrl": "https://twitch.tv/district",
+
+    "reason": "district",
+    "chanName": [ "district", "district was here", "district sb" ],
+    "roleName": [ "district 2 OP", "district was here", "district W" ],
+    "guildName": "district was here",
+
+    "prefix": ",",
+
+    "stat1": "district v1.0",
+    "stat2": "district >",
+    "stat3": "district2op",
+
+    "oneTimeLicense": "True",
+    "oneLicenseKey": "District-0IO9I8DO76-F74MBEP0TH",
+
+    "richPresence": "True",
+
+    "deleteAfter": 10,
+
+    "nitroSniper": "True"
+}
