@@ -7,7 +7,7 @@ Discord selfbot with a shit ton of features and commands.
 - Sound Effects
 - HWID Locked
 - And more.
-- 
+
 ## Themes
 
 ![Theme1](https://i.imgur.com/m4pNYWj.png)
