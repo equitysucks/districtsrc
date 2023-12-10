@@ -1,5 +1,5 @@
 {
-    "userToken" : "",
+    "userToken" : "Token Goes Here",
     "streamUrl": "https://twitch.tv/district",
 
     "reason": "district",
@@ -14,7 +14,7 @@
     "stat3": "district2op",
 
     "oneTimeLicense": "True",
-    "oneLicenseKey": "District-0IO9I8DO76-F74MBEP0TH",
+    "oneLicenseKey": "License Key Goes Here",
 
     "richPresence": "True",
 
