@@ -8,5 +8,5 @@ Discord selfbot with a shit ton of features and commands.
 - HWID Locked
 - More than 4 Themes
 
-  
+#
 - equity 🍷
