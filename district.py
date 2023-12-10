@@ -80,7 +80,7 @@ def getchecksum():
     digest = md5_hash.hexdigest()
     return digest
 
-
+#Put your keyauth app credentials here.
 keyAuthApp = api(
     name = "DistrictSB",
     ownerid = "LihrBEWGYz",
